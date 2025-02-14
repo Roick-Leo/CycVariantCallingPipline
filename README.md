@@ -1,0 +1,2 @@
+# CycVariantCallingPipline
+Cyclone analys pipline
