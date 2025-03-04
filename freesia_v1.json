@@ -1,0 +1,11 @@
+{
+    "freesia.cyclone_fastq_fn": "/data/VarTeam/linwei/01_data/01_fq/Cyc/YA200005CD_WY/YA200005CD_WY_15x.fq.gz",
+    "freesia.DNB_read1_fn": "/data/VarTeam/helei/data/HG002_T1_Plus/DL100002426_L01_UDB-433_1.clean.fq.gz",
+    "freesia.DNB_read2_fn": "/data/VarTeam/helei/data/HG002_T1_Plus/DL100002426_L01_UDB-433_2.clean.fq.gz",
+    "freesia.ref_dir": "/data/VarTeam/helei/data/ref",
+    "freesia.ref_prefix": "hs37d5.fa",
+    "freesia.ref_version": "37",
+    "freesia.threads": 40,
+    "freesia.sample": "HG002_WY01_T1Plus_freesia_Demo",
+    "freesia.out_dir": "/data/VarTeam/helei/work/WY01"
+}
