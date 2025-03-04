@@ -36,6 +36,7 @@ docker run \
 ```
 
 ### Option 2. Docker Dockerfile
+This is the same as option 1 except that you are building a docker image yourself. Please refer to option 1 for usage.
 ```bash
 # clone freesia_v1
 git clone https://github.com/Roick-Leo/freesia_v1.git
